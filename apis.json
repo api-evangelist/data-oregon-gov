@@ -1,0 +1,52 @@
+{
+    "name": "Data.Oregon.Gov",
+    "description": "",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/756-data-oregon-gov.jpg",
+    "tags": [
+        "api provider",
+        "data",
+        "data provider",
+        "have api",
+        "oregon",
+        "state government"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/data-oregon-gov\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Data.Oregon.Gov",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/756-data-oregon-gov.jpg",
+            "humanURL": "https:\/\/oregon.gov\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/data-oregon-gov-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/data-oregon-gov-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "https:\/\/data.oregon.gov\/resources\/"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/data.oregon.gov\/"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/oregon.gov\/"
+        }
+    ]
+}
